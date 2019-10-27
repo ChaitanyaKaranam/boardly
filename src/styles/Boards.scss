@@ -17,3 +17,18 @@
         width: 70%;
     }
 }
+
+@media(max-width: 1000px){
+    .board__wrapper{
+        margin-top: 3rem;
+        grid-template-columns: 1fr;
+    }
+    .board__charts{
+        align-self: end;
+    }
+    .board__images{
+        img{
+            width: 100%;
+        }
+    }
+}

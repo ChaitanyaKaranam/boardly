@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Button from './styled/button';
 import bar from '../images/barchart.png';
 import line from '../images/linechart.png';
 import others from '../images/otherschart.png';
@@ -32,15 +31,21 @@ class Boards extends Component {
         return (
             <div className="board__wrapper">
                 <div className="board__charts">
-                    <Button className={this.renderActiveClass('bar')} name="BAR CHART" onClick={() => {
+                    <button className={this.renderActiveClass('bar')} onClick={() => {
                         this.setState({ active: 'bar'})
-                    }}/>
-                    <Button className={this.renderActiveClass('line')} name="LINE CHART" onClick={() => {
+                    }}>
+                        BAR CHART
+                    </button>
+                    <button className={this.renderActiveClass('line')} onClick={() => {
                         this.setState( { active: 'line'})
-                    }}/>
-                    <Button className={this.renderActiveClass('others')} name="OTHERS" onClick={() => {
+                    }}>
+                        LINE CHART
+                    </button>
+                    <button className={this.renderActiveClass('others')} onClick={() => {
                         this.setState({ active: 'others'})
-                    }}/>
+                    }}>
+                        OTHERS
+                    </button>
                 </div>
                 <div className="board__images">
                     <img src={this.renderImage()} alt="chart"/>

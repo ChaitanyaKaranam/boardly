@@ -2,3 +2,15 @@
   min-height: 100vh;
   background: url('../images/svg/bottomLayer.svg') bottom no-repeat, url('../images/svg/topLayer.svg') no-repeat;
 }
+
+header{
+  position: fixed;
+  width: 100%;
+}
+
+main{
+  height: 100vh;
+  display: grid;
+  padding-left: 40px;
+  padding-right: 40px;
+}

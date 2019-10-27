@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/boardly/static/css/main.71c34a3e.chunk.css",
+    "main.js": "/boardly/static/js/main.0de130e3.chunk.js",
+    "main.js.map": "/boardly/static/js/main.0de130e3.chunk.js.map",
+    "runtime-main.js": "/boardly/static/js/runtime-main.cfd1288c.js",
+    "runtime-main.js.map": "/boardly/static/js/runtime-main.cfd1288c.js.map",
+    "static/js/2.9772955e.chunk.js": "/boardly/static/js/2.9772955e.chunk.js",
+    "static/js/2.9772955e.chunk.js.map": "/boardly/static/js/2.9772955e.chunk.js.map",
+    "index.html": "/boardly/index.html",
+    "precache-manifest.dc64d0736cd0806251e52c59d5b7bfae.js": "/boardly/precache-manifest.dc64d0736cd0806251e52c59d5b7bfae.js",
+    "service-worker.js": "/boardly/service-worker.js",
+    "static/css/main.71c34a3e.chunk.css.map": "/boardly/static/css/main.71c34a3e.chunk.css.map",
+    "static/media/barchart.png": "/boardly/static/media/barchart.de114294.png",
+    "static/media/App.scss": "/boardly/static/media/topLayer.95403e95.svg",
+    "static/media/dashboard.svg": "/boardly/static/media/dashboard.20bb42a2.svg",
+    "static/media/linechart.png": "/boardly/static/media/linechart.f44c495a.png",
+    "static/media/mail.svg": "/boardly/static/media/mail.07d7d9bb.svg",
+    "static/media/otherschart.png": "/boardly/static/media/otherschart.3466f7f5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfd1288c.js",
+    "static/js/2.9772955e.chunk.js",
+    "static/css/main.71c34a3e.chunk.css",
+    "static/js/main.0de130e3.chunk.js"
+  ]
+}

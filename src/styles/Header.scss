@@ -4,9 +4,16 @@ nav{
         list-style: none;
         display: grid;
         grid-template-columns: 1fr auto;
+        a{
+            text-decoration: none;
+            color: initial;
+        }
         li{
             font-size: 20px;
             font-weight: 900;
+            &:first-child{
+                margin-left: 4rem;
+            }
         }
         .nav__links{
             margin-right: 5rem;

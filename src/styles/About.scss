@@ -1,0 +1,17 @@
+.about__wrapper{
+    display: grid;
+}
+
+.about__content{
+    align-self: center;
+    display: grid;
+    grid-row-gap: 2rem;
+    justify-items: center;
+    a{
+        text-decoration: none;
+    }
+    span{
+        font-size: 20px;
+        font-weight: 900;
+    }
+}

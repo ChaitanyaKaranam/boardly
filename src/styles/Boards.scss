@@ -1,0 +1,19 @@
+.board__wrapper{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 2fr;
+}
+
+.board__charts{
+    justify-self: center;
+    display: grid;
+    grid-row-gap: 1rem;
+}
+
+.board__images{
+    display: grid;
+    img{
+        justify-self: center;
+        width: 70%;
+    }
+}

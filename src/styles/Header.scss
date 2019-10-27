@@ -1,0 +1,18 @@
+nav{
+    padding-top: 2rem;
+    ul{
+        list-style: none;
+        display: grid;
+        grid-template-columns: 1fr auto;
+        li{
+            font-size: 20px;
+            font-weight: 900;
+        }
+        .nav__links{
+            margin-right: 5rem;
+            span{
+                margin-right: 4rem;
+            }
+        }
+    }
+}

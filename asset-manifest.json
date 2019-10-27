@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/boardly/static/css/main.bca79682.chunk.css",
-    "main.js": "/boardly/static/js/main.88edcfa1.chunk.js",
-    "main.js.map": "/boardly/static/js/main.88edcfa1.chunk.js.map",
+    "main.js": "/boardly/static/js/main.dd8cb727.chunk.js",
+    "main.js.map": "/boardly/static/js/main.dd8cb727.chunk.js.map",
     "runtime-main.js": "/boardly/static/js/runtime-main.cfd1288c.js",
     "runtime-main.js.map": "/boardly/static/js/runtime-main.cfd1288c.js.map",
     "static/js/2.9772955e.chunk.js": "/boardly/static/js/2.9772955e.chunk.js",
     "static/js/2.9772955e.chunk.js.map": "/boardly/static/js/2.9772955e.chunk.js.map",
     "index.html": "/boardly/index.html",
-    "precache-manifest.f419befb7277da705059f455ef34dedc.js": "/boardly/precache-manifest.f419befb7277da705059f455ef34dedc.js",
+    "precache-manifest.ad6cdb27ce661723b5d12ad69bb7e73c.js": "/boardly/precache-manifest.ad6cdb27ce661723b5d12ad69bb7e73c.js",
     "service-worker.js": "/boardly/service-worker.js",
     "static/css/main.bca79682.chunk.css.map": "/boardly/static/css/main.bca79682.chunk.css.map",
     "static/media/barchart.png": "/boardly/static/media/barchart.de114294.png",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.cfd1288c.js",
     "static/js/2.9772955e.chunk.js",
     "static/css/main.bca79682.chunk.css",
-    "static/js/main.88edcfa1.chunk.js"
+    "static/js/main.dd8cb727.chunk.js"
   ]
 }

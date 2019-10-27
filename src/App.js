@@ -11,7 +11,7 @@ import './styles/Components.scss';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/boardly">
       <header className="App-header">
           <Header/>
       </header>

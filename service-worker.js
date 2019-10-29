@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/boardly/precache-manifest.b2a426d450a9481e78e183c478c9be1f.js"
+  "/boardly/precache-manifest.3d82bc02ff12b6cb5109d208acab8cf9.js"
 );
 
 self.addEventListener('message', (event) => {
